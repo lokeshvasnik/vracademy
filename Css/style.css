@@ -130,3 +130,10 @@ h1 {
         z-index: -1;
     }
 }
+
+.cropped-ofp {
+    width: 100px;
+    height: 750px;
+    object-fit: cover;
+    object-position: 25% 85%;
+}
